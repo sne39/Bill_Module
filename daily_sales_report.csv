@@ -1,0 +1,19 @@
+Date,Bill Number,Firm Name,Item/Particulars,Item Code,Quantity,Price,Taxes,Total Without taxes,Bill total(with gst tax)
+2024-04-10,20240410122949,XYZ Company,1,shoe,65965,25,250,2
+2024-04-10,20240410122949,XYZ Company,2,pen,54846,100,10,1.8
+Date,Bill Number,Firm Name,Item/Particulars,Item Code,Quantity,Price,Taxes,Total Without taxes,Bill total(with gst tax)
+2024-04-10,20240410123631,XYZ Company,1,shoes,64326,10,2500,2.8
+2024-04-10,20240410123631,XYZ Company,2,pen,54689,1005,5,1.6
+Date,Bill Number,Firm Name,Item/Particulars,Item Code,Quantity,Price,Taxes,Total Without taxes,Bill total(with gst tax)
+2024-04-10,20240410123929,XYZ Company,1,shoes,48465,10,10,20
+2024-04-10,20240410123929,XYZ Company,2,pen,54643,52,10,1
+Date,Bill Number,Firm Name,Item/Particulars,Item Code,Quantity,Price,Taxes,Total Without taxes,Bill total(with gst tax)
+2024-04-10,20240410164025,XYZ Company,1,tape,53465,15,25,2
+2024-04-10,20240410164025,XYZ Company,2,pen,58746,20,5,1.8
+2024-04-10,20240410164025,XYZ Company,3,file,57877,10,15,5
+2024-04-10,20240410164025,XYZ Company,4,shoe,54864,15,250,6
+2024-04-10,20240410164025,XYZ Company,5,paper,85895,100,5,2
+Date,Bill Number,Firm Name,Item/Particulars,Item Code,Quantity,Price,Taxes,Total Without taxes,Bill total(with gst tax)
+2024-04-10,20240410165414,XYZ Company,,,,,,
+Date,Bill Number,Firm Name,Item/Particulars,Item Code,Quantity,Price,Taxes,Total Without taxes,Bill total(with gst tax)
+2024-04-10,20240410165756,XYZ Company,,,,,,
